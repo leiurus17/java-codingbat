@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d25f522b-bc88-4087-a576-ddec74e05e48" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/codingbat/warmup1/SleepInBest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codingbat/warmup1/monkeytrouble/MonkeyTrouble.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codingbat/warmup1/SleepIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codingbat/warmup1/sleepin/SleepIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codingbat/warmup1/SleepInBest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codingbat/warmup1/sleepin/SleepInBest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,22 +24,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="2" />
+          <entry key="java" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="2" />
+          <entry key="JAVA" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="582" />
+          <entry key="java" value="892" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="582" />
+          <entry key="JAVA" value="892" />
         </counts>
       </usages-collector>
     </session>
@@ -45,19 +47,28 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/codingbat/warmup1/SleepIn.java">
+        <entry file="file://$PROJECT_DIR$/src/com/codingbat/warmup1/sleepin/SleepIn.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" selection-start-line="11" selection-end-line="13" selection-end-column="49" />
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/codingbat/warmup1/sleepin/SleepInBest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/codingbat/warmup1/SleepInBest.java">
+        <entry file="file://$PROJECT_DIR$/src/com/codingbat/warmup1/monkeytrouble/MonkeyTrouble.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+            <state relative-caret-position="390">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
@@ -84,6 +95,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/com/codingbat/warmup1/SleepIn.java" />
         <option value="$PROJECT_DIR$/src/com/codingbat/warmup1/SleepInBest.java" />
+        <option value="$PROJECT_DIR$/src/com/codingbat/warmup1/sleepin/SleepInBest.java" />
+        <option value="$PROJECT_DIR$/src/com/codingbat/warmup1/monkeytrouble/MonkeyTrouble.java" />
       </list>
     </option>
   </component>
@@ -125,7 +138,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539606186127" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539608193495" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -139,13 +152,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SleepInBest">
-    <configuration name="SleepIn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codingbat.warmup1.SleepIn" />
+  <component name="RunManager" selected="Application.MonkeyTrouble">
+    <configuration name="MonkeyTrouble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingbat.warmup1.monkeytrouble.MonkeyTrouble" />
       <module name="java-codingbat" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codingbat.warmup1.*" />
+          <option name="PATTERN" value="com.codingbat.warmup1.monkeytrouble.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SleepIn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingbat.warmup1.sleepin.SleepIn" />
+      <module name="java-codingbat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codingbat.warmup1.sleepin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +180,11 @@
       </method>
     </configuration>
     <configuration name="SleepInBest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codingbat.warmup1.SleepInBest" />
+      <option name="MAIN_CLASS_NAME" value="com.codingbat.warmup1.sleepin.SleepInBest" />
       <module name="java-codingbat" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codingbat.warmup1.*" />
+          <option name="PATTERN" value="com.codingbat.warmup1.sleepin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,9 +195,11 @@
     <list>
       <item itemvalue="Application.SleepIn" />
       <item itemvalue="Application.SleepInBest" />
+      <item itemvalue="Application.MonkeyTrouble" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MonkeyTrouble" />
         <item itemvalue="Application.SleepInBest" />
         <item itemvalue="Application.SleepIn" />
       </list>
@@ -199,16 +227,16 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="SonarLint" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32912844" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32912844" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32912844" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32912844" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39908257" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -227,17 +255,24 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/codingbat/warmup1/SleepIn.java">
+    <entry file="file://$PROJECT_DIR$/src/com/codingbat/warmup1/sleepin/SleepIn.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="13" selection-end-column="49" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingbat/warmup1/SleepInBest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/codingbat/warmup1/sleepin/SleepInBest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codingbat/warmup1/monkeytrouble/MonkeyTrouble.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>

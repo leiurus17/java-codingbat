@@ -1,4 +1,4 @@
-package com.codingbat.warmup1;
+package com.codingbat.warmup1.sleepin;
 
 public class SleepIn {
 
