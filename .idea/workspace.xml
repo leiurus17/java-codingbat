@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d25f522b-bc88-4087-a576-ddec74e05e48" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/codingbat/warmup1/monkeytrouble/MonkeyTrouble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codingbat/warmup1/monkeytrouble/MonkeyTroubleBest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codingbat/warmup1/SleepIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codingbat/warmup1/sleepin/SleepIn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codingbat/warmup1/SleepInBest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codingbat/warmup1/sleepin/SleepInBest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,22 +22,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="3" />
+          <entry key="java" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="3" />
+          <entry key="JAVA" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="892" />
+          <entry key="java" value="908" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="892" />
+          <entry key="JAVA" value="908" />
         </counts>
       </usages-collector>
     </session>
@@ -64,11 +62,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/codingbat/warmup1/monkeytrouble/MonkeyTrouble.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="24" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/codingbat/warmup1/monkeytrouble/MonkeyTroubleBest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -97,6 +104,7 @@
         <option value="$PROJECT_DIR$/src/com/codingbat/warmup1/SleepInBest.java" />
         <option value="$PROJECT_DIR$/src/com/codingbat/warmup1/sleepin/SleepInBest.java" />
         <option value="$PROJECT_DIR$/src/com/codingbat/warmup1/monkeytrouble/MonkeyTrouble.java" />
+        <option value="$PROJECT_DIR$/src/com/codingbat/warmup1/monkeytrouble/MonkeyTroubleBest.java" />
       </list>
     </option>
   </component>
@@ -130,6 +138,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="warmup1" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="java-codingbat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-codingbat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="warmup1" type="462c0819:PsiDirectoryNode" />
+              <item name="monkeytrouble" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -138,7 +153,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539608193495" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539608302088" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -152,9 +167,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MonkeyTrouble">
+  <component name="RunManager" selected="Application.MonkeyTroubleBest">
     <configuration name="MonkeyTrouble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codingbat.warmup1.monkeytrouble.MonkeyTrouble" />
+      <module name="java-codingbat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codingbat.warmup1.monkeytrouble.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MonkeyTroubleBest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingbat.warmup1.monkeytrouble.MonkeyTroubleBest" />
       <module name="java-codingbat" />
       <extension name="coverage">
         <pattern>
@@ -196,9 +224,11 @@
       <item itemvalue="Application.SleepIn" />
       <item itemvalue="Application.SleepInBest" />
       <item itemvalue="Application.MonkeyTrouble" />
+      <item itemvalue="Application.MonkeyTroubleBest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MonkeyTroubleBest" />
         <item itemvalue="Application.MonkeyTrouble" />
         <item itemvalue="Application.SleepInBest" />
         <item itemvalue="Application.SleepIn" />
@@ -271,8 +301,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/codingbat/warmup1/monkeytrouble/MonkeyTrouble.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codingbat/warmup1/monkeytrouble/MonkeyTroubleBest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
         </state>
       </provider>
     </entry>
