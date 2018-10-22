@@ -11,3 +11,7 @@ b
 2src/com/codingbat/warmup1/sumdouble/SumDouble.java,2/d/2d05b20624a639f7597dacac87e63c0cafcbaad4
 \
 ,src/com/codingbat/warmup1/diff21/Diff21.java,a/f/afd95e5f26313809257200b421f940b9b65d6cee
+j
+:src/com/codingbat/warmup1/parrottrouble/ParrotTrouble.java,8/7/87c2e170a33ae8326f923816b5f39da4c7013b1e
+^
+.src/com/codingbat/warmup1/makes10/Makes10.java,6/b/6b37ada721d63a5ca0118088ce03a79deac40042

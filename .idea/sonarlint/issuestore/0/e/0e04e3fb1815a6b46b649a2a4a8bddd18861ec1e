@@ -1,8 +1,8 @@
 
 [
+squid:S106"9Replace this use of System.out or System.err by a logger.(× ›Ñøÿÿÿÿ8ÖËğ¼ç,
+[
 squid:S106"9Replace this use of System.out or System.err by a logger.(œÕº—ûÿÿÿÿ8ÖËğ¼ç,
-Usquid:S2589"7Remove this expression which always evaluates to "true"(ãæÑ 8¯¦ï¼ç,
 U
 squid:S106"9Replace this use of System.out or System.err by a logger.(¶8ÖËğ¼ç,
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(× ›Ñøÿÿÿÿ8ÖËğ¼ç,
+Usquid:S2589"7Remove this expression which always evaluates to "true"(ãæÑ 8¯¦ï¼ç,
