@@ -2,14 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d25f522b-bc88-4087-a576-ddec74e05e48" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/e/0e04e3fb1815a6b46b649a2a4a8bddd18861ec1e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/e/0e04e3fb1815a6b46b649a2a4a8bddd18861ec1e" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2d05b20624a639f7597dacac87e63c0cafcbaad4" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2d05b20624a639f7597dacac87e63c0cafcbaad4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/8/5881637483a886ddee1784ce06e8bfde784523be" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/8/5881637483a886ddee1784ce06e8bfde784523be" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/b/6b37ada721d63a5ca0118088ce03a79deac40042" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/b/6b37ada721d63a5ca0118088ce03a79deac40042" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/73690756a27e73b4d6141296711e02a3d97889e9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/73690756a27e73b4d6141296711e02a3d97889e9" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/f/afd95e5f26313809257200b421f940b9b65d6cee" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/f/afd95e5f26313809257200b421f940b9b65d6cee" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/f/dfe63a72e27f87c5aab2952fd7383c6cd19f4b7c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/f/dfe63a72e27f87c5aab2952fd7383c6cd19f4b7c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -32,37 +24,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="10" />
+          <entry key="java" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="10" />
+          <entry key="JAVA" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2275" />
+          <entry key="java" value="2277" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2275" />
+          <entry key="JAVA" value="2277" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/codingbat/warmup1/sleepin/SleepIn.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/codingbat/warmup1/sleepin/SleepInBest.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -135,11 +118,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/codingbat/warmup1/posneg/PosNeg.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+            <state relative-caret-position="210">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/codingbat/warmup1/posneg/PosNegBest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -175,6 +167,7 @@
         <option value="$PROJECT_DIR$/src/com/codingbat/warmup1/makes10/Makes10.java" />
         <option value="$PROJECT_DIR$/src/com/codingbat/warmup1/nearhundred/NearHundred.java" />
         <option value="$PROJECT_DIR$/src/com/codingbat/warmup1/posneg/PosNeg.java" />
+        <option value="$PROJECT_DIR$/src/com/codingbat/warmup1/posneg/PosNegBest.java" />
       </list>
     </option>
   </component>
@@ -216,7 +209,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540299970966" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540300102633" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -230,20 +223,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PosNeg">
-    <configuration name="Diff21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codingbat.warmup1.diff21.Diff21" />
-      <module name="java-codingbat" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codingbat.warmup1.diff21.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.PosNegBest">
     <configuration name="Makes10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codingbat.warmup1.makes10.Makes10" />
       <module name="java-codingbat" />
@@ -296,20 +276,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PosNegBest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingbat.warmup1.posneg.PosNegBest" />
+      <module name="java-codingbat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codingbat.warmup1.posneg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Diff21" />
       <item itemvalue="Application.ParrotTrouble" />
       <item itemvalue="Application.Makes10" />
       <item itemvalue="Application.NearHundred" />
       <item itemvalue="Application.PosNeg" />
+      <item itemvalue="Application.PosNegBest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PosNegBest" />
         <item itemvalue="Application.PosNeg" />
         <item itemvalue="Application.NearHundred" />
         <item itemvalue="Application.Makes10" />
         <item itemvalue="Application.ParrotTrouble" />
-        <item itemvalue="Application.Diff21" />
       </list>
     </recent_temporary>
   </component>
@@ -330,7 +323,7 @@
     <frame x="960" y="27" width="960" height="1009" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21991247" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21991247" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -346,7 +339,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32912844" />
       <window_info anchor="bottom" id="SonarLint" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32798165" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32798165" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -428,8 +421,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/codingbat/warmup1/posneg/PosNeg.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+        <state relative-caret-position="210">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codingbat/warmup1/posneg/PosNegBest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
         </state>
       </provider>
     </entry>
