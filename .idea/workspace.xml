@@ -2,6 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d25f522b-bc88-4087-a576-ddec74e05e48" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/codingbat/warmup1/notstring/NotString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/e/0e04e3fb1815a6b46b649a2a4a8bddd18861ec1e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/e/0e04e3fb1815a6b46b649a2a4a8bddd18861ec1e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2d05b20624a639f7597dacac87e63c0cafcbaad4" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2d05b20624a639f7597dacac87e63c0cafcbaad4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/2/523479d7ba2b6844ffcd49640e743fededac1ae8" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/2/523479d7ba2b6844ffcd49640e743fededac1ae8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/8/5881637483a886ddee1784ce06e8bfde784523be" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/8/5881637483a886ddee1784ce06e8bfde784523be" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/b/6b37ada721d63a5ca0118088ce03a79deac40042" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/b/6b37ada721d63a5ca0118088ce03a79deac40042" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/73690756a27e73b4d6141296711e02a3d97889e9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/73690756a27e73b4d6141296711e02a3d97889e9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/7/87c2e170a33ae8326f923816b5f39da4c7013b1e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/7/87c2e170a33ae8326f923816b5f39da4c7013b1e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/f/afd95e5f26313809257200b421f940b9b65d6cee" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/f/afd95e5f26313809257200b421f940b9b65d6cee" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,46 +25,37 @@
     <session id="-1802469921">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.10" value="4" />
+          <entry key="project.open.time.10" value="5" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="11" />
+          <entry key="java" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="11" />
+          <entry key="JAVA" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2277" />
+          <entry key="java" value="2408" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2277" />
+          <entry key="JAVA" value="2408" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/codingbat/warmup1/sleepin/SleepInBest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/codingbat/warmup1/monkeytrouble/MonkeyTrouble.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -113,7 +114,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/codingbat/warmup1/nearhundred/NearHundred.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -122,16 +123,25 @@
         <entry file="file://$PROJECT_DIR$/src/com/codingbat/warmup1/posneg/PosNeg.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="14" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
+              <caret line="14" column="5" selection-start-line="4" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/codingbat/warmup1/posneg/PosNegBest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/codingbat/warmup1/posneg/PosNegBest.java">
+        <entry file="file://$PROJECT_DIR$/src/com/codingbat/warmup1/notstring/NotString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+            <state relative-caret-position="195">
+              <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -168,6 +178,7 @@
         <option value="$PROJECT_DIR$/src/com/codingbat/warmup1/nearhundred/NearHundred.java" />
         <option value="$PROJECT_DIR$/src/com/codingbat/warmup1/posneg/PosNeg.java" />
         <option value="$PROJECT_DIR$/src/com/codingbat/warmup1/posneg/PosNegBest.java" />
+        <option value="$PROJECT_DIR$/src/com/codingbat/warmup1/notstring/NotString.java" />
       </list>
     </option>
   </component>
@@ -209,7 +220,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540300102633" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540385228281" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -323,7 +334,7 @@
     <frame x="960" y="27" width="960" height="1009" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21991247" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22538294" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -339,7 +350,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32912844" />
       <window_info anchor="bottom" id="SonarLint" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32798165" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32798165" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -415,21 +426,28 @@
     <entry file="file://$PROJECT_DIR$/src/com/codingbat/warmup1/nearhundred/NearHundred.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/codingbat/warmup1/posneg/PosNeg.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
+          <caret line="14" column="5" selection-start-line="4" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/codingbat/warmup1/posneg/PosNegBest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        <state relative-caret-position="255">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codingbat/warmup1/notstring/NotString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
         </state>
       </provider>
     </entry>
