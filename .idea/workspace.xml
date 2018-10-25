@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d25f522b-bc88-4087-a576-ddec74e05e48" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2d05b20624a639f7597dacac87e63c0cafcbaad4" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2d05b20624a639f7597dacac87e63c0cafcbaad4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/2/523479d7ba2b6844ffcd49640e743fededac1ae8" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/2/523479d7ba2b6844ffcd49640e743fededac1ae8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/8/5881637483a886ddee1784ce06e8bfde784523be" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/8/5881637483a886ddee1784ce06e8bfde784523be" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/a/6a9b916b7a623bd77029fcac91270ace89ba24aa" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/a/6a9b916b7a623bd77029fcac91270ace89ba24aa" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/b/6b37ada721d63a5ca0118088ce03a79deac40042" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/b/6b37ada721d63a5ca0118088ce03a79deac40042" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/73690756a27e73b4d6141296711e02a3d97889e9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/73690756a27e73b4d6141296711e02a3d97889e9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/1/816e2e445203712d83dc69bef7db59c895e1ab0d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/1/816e2e445203712d83dc69bef7db59c895e1ab0d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/7/87c2e170a33ae8326f923816b5f39da4c7013b1e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/7/87c2e170a33ae8326f923816b5f39da4c7013b1e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/f/afd95e5f26313809257200b421f940b9b65d6cee" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/f/afd95e5f26313809257200b421f940b9b65d6cee" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/f/dfe63a72e27f87c5aab2952fd7383c6cd19f4b7c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/f/dfe63a72e27f87c5aab2952fd7383c6cd19f4b7c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codingbat/warmup1/missingchar/MissingChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codingbat/warmup1/missingchar/MissingChar.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,46 +26,37 @@
     <session id="-1802469921">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.10" value="5" />
+          <entry key="project.open.time.10" value="6" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="14" />
+          <entry key="java" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="14" />
+          <entry key="JAVA" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3004" />
+          <entry key="java" value="3596" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3004" />
+          <entry key="JAVA" value="3596" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/codingbat/warmup1/sumdouble/SumDouble.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/codingbat/warmup1/diff21/Diff21.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -119,11 +120,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/codingbat/warmup1/missingchar/MissingChar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="55" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
+            <state relative-caret-position="360">
+              <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/codingbat/warmup1/frontback/FrontBack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -131,7 +141,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$PROJECT_DIR$/../../Apps/jdk1.8.0_181/src.zip!/java/lang/String.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
+            <state relative-caret-position="42915">
               <caret line="2896" column="18" selection-start-line="2896" selection-start-column="18" selection-end-line="2896" selection-end-column="18" />
             </state>
           </provider>
@@ -171,6 +181,7 @@
         <option value="$PROJECT_DIR$/src/com/codingbat/warmup1/posneg/PosNegBest.java" />
         <option value="$PROJECT_DIR$/src/com/codingbat/warmup1/notstring/NotString.java" />
         <option value="$PROJECT_DIR$/src/com/codingbat/warmup1/missingchar/MissingChar.java" />
+        <option value="$PROJECT_DIR$/src/com/codingbat/warmup1/frontback/FrontBack.java" />
       </list>
     </option>
   </component>
@@ -186,7 +197,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -205,21 +215,15 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="warmup1" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="java-codingbat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-codingbat" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="warmup1" type="462c0819:PsiDirectoryNode" />
-              <item name="missingchar" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540386920014" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540473467742" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -233,13 +237,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MissingChar">
-    <configuration name="MissingChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codingbat.warmup1.missingchar.MissingChar" />
+  <component name="RunManager" selected="Application.FrontBack">
+    <configuration name="FrontBack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingbat.warmup1.frontback.FrontBack" />
       <module name="java-codingbat" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codingbat.warmup1.missingchar.*" />
+          <option name="PATTERN" value="com.codingbat.warmup1.frontback.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -247,12 +251,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NearHundred" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codingbat.warmup1.nearhundred.NearHundred" />
+    <configuration name="MissingChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingbat.warmup1.missingchar.MissingChar" />
       <module name="java-codingbat" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codingbat.warmup1.nearhundred.*" />
+          <option name="PATTERN" value="com.codingbat.warmup1.missingchar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -300,19 +304,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.NearHundred" />
       <item itemvalue="Application.PosNeg" />
       <item itemvalue="Application.PosNegBest" />
       <item itemvalue="Application.NotString" />
       <item itemvalue="Application.MissingChar" />
+      <item itemvalue="Application.FrontBack" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FrontBack" />
         <item itemvalue="Application.MissingChar" />
         <item itemvalue="Application.NotString" />
         <item itemvalue="Application.PosNegBest" />
         <item itemvalue="Application.PosNeg" />
-        <item itemvalue="Application.NearHundred" />
       </list>
     </recent_temporary>
   </component>
@@ -333,7 +337,7 @@
     <frame x="960" y="27" width="960" height="1009" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22538294" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2308534" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -452,15 +456,22 @@
     </entry>
     <entry file="jar://$PROJECT_DIR$/../../Apps/jdk1.8.0_181/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
+        <state relative-caret-position="42915">
           <caret line="2896" column="18" selection-start-line="2896" selection-start-column="18" selection-end-line="2896" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/codingbat/warmup1/missingchar/MissingChar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="55" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
+        <state relative-caret-position="360">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codingbat/warmup1/frontback/FrontBack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
         </state>
       </provider>
     </entry>

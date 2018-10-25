@@ -21,3 +21,7 @@ f
 ,src/com/codingbat/warmup1/posneg/PosNeg.java,6/a/6a9b916b7a623bd77029fcac91270ace89ba24aa
 `
 0src/com/codingbat/warmup1/posneg/PosNegBest.java,8/1/816e2e445203712d83dc69bef7db59c895e1ab0d
+b
+2src/com/codingbat/warmup1/notstring/NotString.java,d/3/d39638ce9c65e1c2a170a7be186bd529a69372cf
+f
+6src/com/codingbat/warmup1/missingchar/MissingChar.java,a/6/a6647d0fb72a0b2c6805edf2bc532aac33334852
