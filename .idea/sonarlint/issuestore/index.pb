@@ -25,3 +25,9 @@ b
 2src/com/codingbat/warmup1/notstring/NotString.java,d/3/d39638ce9c65e1c2a170a7be186bd529a69372cf
 f
 6src/com/codingbat/warmup1/missingchar/MissingChar.java,a/6/a6647d0fb72a0b2c6805edf2bc532aac33334852
+b
+2src/com/codingbat/warmup1/frontback/FrontBack.java,c/3/c3660d3e86a09deb7781034c3ec2bf204cadc8bb
+`
+0src/com/codingbat/warmup1/front3/FrontThree.java,5/1/51816b5b974f97d910265737041361035f55afa9
+d
+4src/com/codingbat/warmup1/front3/FrontThreeBest.java,9/8/98b917bd47bf82f20820111bf7bf096037daaad0
