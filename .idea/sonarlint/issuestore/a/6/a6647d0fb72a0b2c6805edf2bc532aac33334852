@@ -1,9 +1,0 @@
-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÇğøÛüÿÿÿÿ8Œï ±ê,
-jsquid:S1192"GDefine a constant instead of duplicating this literal "kitten" 3 times.(ÇğøÛüÿÿÿÿ8˜Á¥±ê,
-:squid:S1643"Use a StringBuilder instead.(Ş´‘ô8À»Û±ê,
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(¹çÂ®8ÈÖ¢±ê,
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(¹Ë­Œüÿÿÿÿ8ÈÖ¢±ê,
