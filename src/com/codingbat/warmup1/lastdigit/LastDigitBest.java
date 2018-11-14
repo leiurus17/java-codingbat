@@ -1,6 +1,6 @@
 package com.codingbat.warmup1.lastdigit;
 
-public class LastDigit {
+public class LastDigitBest {
 
     public static void main(String[] args) {
         System.out.println(lastDigit(7, 17));
@@ -10,15 +10,6 @@ public class LastDigit {
     }
 
     private static boolean lastDigit(int a, int b) {
-
-        while (a > 9) {
-            a = a % 10;
-        }
-
-        while (b > 9) {
-            b = b % 10;
-        }
-
-        return a == b;
+        return(a % 10 == b % 10);
     }
 }
