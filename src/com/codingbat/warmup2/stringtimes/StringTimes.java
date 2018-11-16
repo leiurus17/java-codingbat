@@ -10,10 +10,12 @@ public class StringTimes {
 
     private static String stringTimes(String str, int n) {
 
+        String longString = "";
+
         for (int x = 0; x < n; x++) {
-            str = str + str;
+            longString = longString + str;
         }
 
-        return str;
+        return longString;
     }
 }
