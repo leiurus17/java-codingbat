@@ -9,6 +9,17 @@ public class StringMatch {
     }
 
     private static int stringMatch(String a, String b) {
-        return 0;
+        int matchCount = 0;
+        int loopCount = 0;
+
+        while (loopCount < a.length()-1 && loopCount < b.length()-1) {
+            if (a.substring(loopCount,loopCount+2).equalsIgnoreCase(b.substring(loopCount,loopCount+2))) {
+                matchCount++;
+            }
+
+            loopCount++;
+        }
+
+        return matchCount;
     }
 }
