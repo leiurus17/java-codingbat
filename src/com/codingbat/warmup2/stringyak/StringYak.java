@@ -4,27 +4,24 @@ public class StringYak {
 
     public static void main(String[] args) {
         System.out.println(stringYak("yakpak"));
-        //System.out.println(stringYak("pakyak"));
-        //System.out.println(stringYak("yak123ya"));
+        System.out.println(stringYak("pakyak"));
+        System.out.println(stringYak("yak123ya"));
     }
 
     private static String stringYak(String str) {
+
         String yak = "yak";
         String newString = "";
-        int x = 0;
 
-        while(x < str.length()-2) {
-            // TODO Fix this
-            System.out.println(str.substring(x, x+3));
+        // FIXME
 
-            if (str.substring(x, x+3).equalsIgnoreCase(yak)) {
-                x += 3;
-            } else {
-                newString += str.substring(x,x+1);
-                x++;
+        for (int x = 0; x < str.length(); x+=3) {
+            if((str.length()-x) <3){
+                newString += str.substring(x,x+(str.length()-x));
+            } else if (!str.substring(x,x+3).equalsIgnoreCase(yak)) {
+                newString += str.substring(x,x+3);
             }
         }
-
         return newString;
     }
 }
