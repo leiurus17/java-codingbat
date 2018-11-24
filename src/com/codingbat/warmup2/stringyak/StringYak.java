@@ -15,16 +15,14 @@ public class StringYak {
 
         // FIXME
 
-        for (int x = 0; x < str.length();) {
-            if((str.length()-x) <3){
-                newString += str.substring(x,x+(str.length()-x));
-            } else if (!str.substring(x,x+3).equalsIgnoreCase(yak)) {
-                System.out.println(str.substring(x,x+3));
-                newString += str.substring(x,x+3);
-                x+=2;
+        for (int x = 0; x < str.length(); ) {
+            if (str.substring(x, x+3).equalsIgnoreCase(yak) || (str.length() - x) > 3) {
+                x+=3;
             } else {
+                newString += str.substring(x,x+1);
                 x++;
             }
+            System.out.println(newString);
         }
         return newString;
     }
