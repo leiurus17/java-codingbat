@@ -4,8 +4,8 @@ public class StringYak {
 
     public static void main(String[] args) {
         System.out.println(stringYak("yakpak"));
-        //System.out.println(stringYak("pakyak"));
-        //System.out.println(stringYak("yak123ya"));
+        System.out.println(stringYak("pakyak"));
+        System.out.println(stringYak("yak123ya"));
     }
 
     private static String stringYak(String str) {
@@ -13,16 +13,18 @@ public class StringYak {
         String yak = "yak";
         String newString = "";
 
-        // FIXME
+        // I FINALLY MADE IT!!!!
 
-        for (int x = 0; x < str.length(); ) {
-            if (str.substring(x, x+3).equalsIgnoreCase(yak) || (str.length() - x) > 3) {
-                x+=3;
+        for (int x = 0; x < str.length(); x++) {
+
+            if ((str.length() - x) < 3) {
+                newString += str.substring(x, x+((str.length() - x)));
+                break;
+            } else if (str.substring(x,x+3).equalsIgnoreCase(yak)) {
+                x+=2;
             } else {
-                newString += str.substring(x,x+1);
-                x++;
+                newString += str.charAt(x);
             }
-            System.out.println(newString);
         }
         return newString;
     }
