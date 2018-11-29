@@ -1,4 +1,4 @@
-package com.codingbat.notriples;
+package com.codingbat.warmup2.notriples;
 
 public class NoTriples {
 
