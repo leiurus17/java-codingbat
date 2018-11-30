@@ -9,9 +9,8 @@ public class HelloName {
     }
 
     // TODO finish first all the Warmup-2 problems
-    // Before doing this one even if it's easy
 
     private static String helloName(String name) {
-        return "";
+        return "Hello " + name + "!";
     }
 }
