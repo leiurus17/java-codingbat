@@ -10,8 +10,11 @@ public class TwoChar {
         System.out.println(twoChar("Hello", 3));
     }
 
-    // FIXME there is a failing test
     private static String twoChar(String str, int index) {
-        return index != 2 && str.length() - index < 2 || index < 0 ? str.substring(0,2) : str.substring(index,index+2);
+        if (str.length() <= index + 1 || index < 0) {
+            return str.substring(0,2);
+        } else {
+            return str.substring(index, index + 2);
+        }
     }
 }
