@@ -9,6 +9,12 @@ public class AtFirst {
     }
 
     private static String atFirst(String str) {
-        return str.length() < 2 ? str.concat("@") : str.substring(0,2);
+        if (str.length() == 0) {
+            return "@@";
+        } else if (str.length() == 1) {
+            return str.concat("@");
+        } else {
+            return str.substring(0,2);
+        }
     }
 }
