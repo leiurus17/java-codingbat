@@ -8,8 +8,17 @@ public class Without2 {
         System.out.println(without2("Hi"));
     }
 
-    //TODO implement
+
+    // This is an ugly solution
     private static String without2(String str) {
-        return "";
+            if (str.length() <2) {
+              return str;
+            } else if (str.length() == 2) {
+                return "";
+            } else if (str.substring(0,2).equalsIgnoreCase(str.substring(str.length()-2))) {
+                return str.substring(2);
+            }
+
+            return str;
     }
 }
