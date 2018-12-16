@@ -9,6 +9,24 @@ public class WithoutX2 {
     }
 
     private static String withoutX2(String str) {
-        return "";
+        String stringX2 = str;
+
+        if (str.length() <= 1) {
+            return "";
+        }
+
+        if (str.substring(0,1).equalsIgnoreCase("x")) {
+            stringX2 = str.substring(1);
+        }
+
+        if (str.substring(1,2).equalsIgnoreCase("x")) {
+            stringX2 = str.substring(0,1).concat(str.substring(2));
+        }
+
+        if (str.substring(0,2).equalsIgnoreCase("xx")) {
+            stringX2 = str.substring(2);
+        }
+
+        return stringX2;
     }
 }
