@@ -10,6 +10,6 @@ public class Sum3 {
 
     // TODO implement
     private static int sum3(int[] nums) {
-
+        return 0;
     }
 }
