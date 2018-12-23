@@ -1,6 +1,6 @@
 package com.codingbat.array1.plustwo;
 
-public class plustwo {
+public class PlusTwo {
 
     public static void main(String[] args) {
         System.out.println(plusTwo(new int[] {1, 2}, new int[] {3, 4}));
