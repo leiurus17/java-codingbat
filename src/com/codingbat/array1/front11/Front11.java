@@ -10,6 +10,6 @@ public class Front11 {
 
     // TODO implement
     private static int[] front11(int[] a, int[] b) {
-
+        return new int[] {};
     }
 }
