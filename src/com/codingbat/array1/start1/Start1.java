@@ -8,6 +8,7 @@ public class Start1 {
         System.out.println(start1(new int[] {1, 2}, new int[] {}));
     }
 
+    // TODO implement
     private static int start1(int[] a, int[] b) {
         return 0;
     }
