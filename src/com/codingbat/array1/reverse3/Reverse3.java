@@ -8,8 +8,7 @@ public class Reverse3 {
         System.out.println(reverse3(new int[] {7, 0, 0}));
     }
 
-    // TODO implement
     private static int[] reverse3(int[] nums) {
-        return new int[] {0};
+        return new int[] {nums[nums.length-1], nums[0+1], nums[0]};
     }
 }
