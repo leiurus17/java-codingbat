@@ -8,8 +8,7 @@ public class CommonEnd {
         System.out.println(commonEnd(new int[] {1, 2, 3}, new int[] {1, 3}));
     }
 
-    // TODO implement
-    public static boolean commonEnd(int[] a, int[] b) {
-        return false;
+    private static boolean commonEnd(int[] a, int[] b) {
+        return a[0] == b[0] || a[a.length-1] == b[b.length-1];
     }
 }
