@@ -8,8 +8,7 @@ public class Sum3 {
         System.out.println(sum3(new int[] {7, 0, 0}));
     }
 
-    // TODO implement
     private static int sum3(int[] nums) {
-        return 0;
+        return nums[0] + nums[1] + nums[2];
     }
 }
