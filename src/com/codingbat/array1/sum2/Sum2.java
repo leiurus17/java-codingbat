@@ -8,8 +8,13 @@ public class Sum2 {
         System.out.println(sum2(new int[] {1, 1, 1, 1}));
     }
 
-    // TODO implement
     private static int sum2(int[] nums) {
-        return 0;
+        if (nums.length == 0) {
+            return 0;
+        } else if (nums.length < 2) {
+            return nums[nums.length-1];
+        } else {
+            return nums[0] + nums[1];
+        }
     }
 }
