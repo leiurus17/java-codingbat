@@ -8,8 +8,9 @@ public class MaxEnd3 {
         System.out.println(maxEnd3(new int[] {2, 11, 3}));
     }
 
-    // TODO implement
     private static int[] maxEnd3(int[] nums) {
-        return new int[] {0};
+        int max = Math.max(nums[0], nums[nums.length-1]);
+
+        return new int[] {max, max, max};
     }
 }
