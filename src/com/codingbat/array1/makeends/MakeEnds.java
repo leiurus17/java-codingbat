@@ -8,8 +8,7 @@ public class MakeEnds {
         System.out.println(makeEnds(new int[] {7, 4, 6, 2}));
     }
 
-    // TODO implement
     private static int[] makeEnds(int[] nums) {
-        return new int[] {0};
+        return new int[] {nums[0], nums[nums.length-1]};
     }
 }
