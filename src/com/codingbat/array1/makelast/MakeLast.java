@@ -10,6 +10,9 @@ public class MakeLast {
 
     // TODO implement
     private static int[] makeLast(int[] nums) {
-        return new int[] {0};
+        int[] newNums = new int[nums.length * 2];
+        newNums[newNums.length-1] = nums[nums.length-1];
+
+        return newNums;
     }
 }
