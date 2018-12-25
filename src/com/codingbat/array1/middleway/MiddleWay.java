@@ -8,8 +8,7 @@ public class MiddleWay {
         System.out.println(middleWay(new int[] {5, 2, 9}, new int[] {1, 4, 5}));
     }
 
-    // TODO implement
     private static int[] middleWay(int[] a, int[] b) {
-        return new int[] {0};
+        return new int[] {a[1], b[1]};
     }
 }
