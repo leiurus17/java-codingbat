@@ -8,7 +8,6 @@ public class MakeLast {
         System.out.println(makeLast(new int[] {3}));
     }
 
-    // TODO implement
     private static int[] makeLast(int[] nums) {
         int[] newNums = new int[nums.length * 2];
         newNums[newNums.length-1] = nums[nums.length-1];
