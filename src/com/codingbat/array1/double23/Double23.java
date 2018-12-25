@@ -1,6 +1,6 @@
 package com.codingbat.array1.double23;
 
-public class DoubleEnd {
+public class Double23 {
 
     public static void main(String[] args) {
         System.out.println(double23(new int[] {2, 2}));
@@ -8,8 +8,7 @@ public class DoubleEnd {
         System.out.println(double23(new int[] {2, 3}));
     }
 
-    // TODO implement
     private static boolean double23(int[] nums) {
-        return false;
+        return nums.length == 2 && nums[0] == nums[1] && (nums[0] == 2 || nums[0] == 3);
     }
 }
