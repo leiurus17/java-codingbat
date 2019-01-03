@@ -8,8 +8,13 @@ public class Fix23 {
         System.out.println(fix23(new int[] {1 ,2 ,1}));
     }
 
-    // TODO implement
     private static int[] fix23(int[] nums) {
-        return new int[] {0};
+        if (nums[0] == 2 && nums[1] == 3) {
+            return new int[]{nums[0], 0, nums[2]};
+        } else if (nums[1] == 2 && nums[2] == 3) {
+            return new int[]{nums[0], nums[1], 0};
+        } else {
+            return nums;
+        }
     }
 }
