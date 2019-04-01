@@ -10,6 +10,20 @@ public class Start1 {
 
     // TODO implement
     private static int start1(int[] a, int[] b) {
-        return 0;
+        int count = 0;
+
+        if (null != a && a.length != 0) {
+            if (a[0] == 1) {
+                count = count + 1;
+            }
+        }
+
+        if (null != b && b.length != 0) {
+            if (b[0] == 1) {
+                count = count + 1;
+            }
+        }
+
+        return count;
     }
 }
