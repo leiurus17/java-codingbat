@@ -8,8 +8,7 @@ public class PlusTwo {
         System.out.println(plusTwo(new int[] {9 ,2}, new int[] {3, 4}));
     }
 
-    // TODO implement
     private static int[] plusTwo(int[] a, int[] b) {
-        return new int[] {};
+        return new int[] {a[0], a[1], b[0], b[1]};
     }
 }
