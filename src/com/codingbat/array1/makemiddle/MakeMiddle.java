@@ -4,12 +4,12 @@ public class MakeMiddle {
 
     public static void main(String[] args) {
         System.out.println(makeMiddle(new int[] {1, 2, 3, 4}));
-        System.out.println(makeMiddle(new int[] { 7, 1, 2, 3, 4, 9}));
+        System.out.println(makeMiddle(new int[] {7, 1, 2, 3, 4, 9}));
         System.out.println(makeMiddle(new int[] {1, 2}));
     }
 
-    // TODO implement
     private static int[] makeMiddle(int[] nums) {
-        return new int[] {};
+        int midCount = nums.length / 2;
+        return new int[]{nums[midCount-1], nums[midCount]};
     }
 }
