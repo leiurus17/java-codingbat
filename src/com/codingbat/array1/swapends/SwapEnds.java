@@ -6,10 +6,18 @@ public class SwapEnds {
         System.out.println(swapEnds(new int[] {1, 2, 3 ,4}));
         System.out.println(swapEnds(new int[] {1, 2, 3}));
         System.out.println(swapEnds(new int[] {8, 6, 7, 9, 5}));
+
+        for (int i: swapEnds(new int[] {1, 2, 3 ,4})){
+            System.out.println(i);
+        }
     }
 
-    // TODO implement
     private static int[] swapEnds(int[] nums) {
-        return new int[] {};
+        int[] newArray = nums.clone();
+
+        newArray[0] = nums[nums.length-1];
+        newArray[nums.length-1] = nums[0];
+
+        return newArray;
     }
 }
